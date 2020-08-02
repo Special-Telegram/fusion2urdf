@@ -141,3 +141,7 @@ roslaunch (whatever your robot_name is)_description gazebo.launch
 ```
 
 **Enjoy your Fusion 360 and ROS life!**
+<<<<<<< Updated upstream
+=======
+**Might seem complicated.. But you'll love it**
+>>>>>>> Stashed changes
